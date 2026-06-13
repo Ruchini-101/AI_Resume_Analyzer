@@ -3,6 +3,7 @@
 An AI-powered web application that analyzes resumes and provides instant feedback to help improve job readiness and ATS compatibility.
 
 🌐 Live Demo: https://airesumeanalyzer-cv.streamlit.app/
+
 📁 Repository: https://github.com/Ruchini-101/AI_Resume_Analyzer.git
 
 📌 About the Project
